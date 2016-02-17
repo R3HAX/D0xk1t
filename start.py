@@ -277,7 +277,7 @@ print" 	| |  | | | | \ \/ / |/ / | __|"
 print" 	| |__| | |_| |>  <|   <| | |_ "
 print" 	|_____/ \___//_/\_\_|\_\_|\__|"
 print"								  "
-print B + "	     Written By: Alan Cao	  " + G 
+print B + "	     Written By: ex0dus	  " + G 
 print" ======================================== " + W
 
 print "[1] Write a D0x"
